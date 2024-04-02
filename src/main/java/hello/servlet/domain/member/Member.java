@@ -10,11 +10,10 @@ public class Member {
     private String username;
     private int age;
 
-    public Member(String hello, int i) {
+    public Member() {
     }
 
-    public Member(Long id, String username, int age) {
-        this.id = id;
+    public Member(String username, int age) {
         this.username = username;
         this.age = age;
     }
