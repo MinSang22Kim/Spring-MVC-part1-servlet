@@ -1,3 +1,3 @@
 # Spring-MVC-part1-servlet
 
-🍀 About Studying SpringBoot & JPA
+🍀 About Studying SpringMVC - servlet
